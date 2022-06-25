@@ -1,0 +1,4 @@
+#Sat Jun 25 23:06:57 ICT 2022
+base.0=D\:\\Lessons\\IT Lessons\\Build With Angga\\Become Flutter Apps Developer\\5. Flutter Membangun Website Sederhana\\flutter_web\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
